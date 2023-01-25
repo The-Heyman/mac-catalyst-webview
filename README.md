@@ -1,2 +1,2 @@
 # mac-catalyst-webview
-![](screenshot-catalayst)
+![](screenshot-catalayst.png)
